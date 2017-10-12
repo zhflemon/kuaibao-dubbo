@@ -1,5 +1,5 @@
-/.idea
-/.settings
+/.idea/
+/.settings/
 /target
 .classpath
 .project
@@ -9,3 +9,30 @@
 *.DS_Store
 /.externalToolBuilders
 /bin
+.gitignore
+
+
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+rebel.xml
+/out

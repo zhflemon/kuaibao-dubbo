@@ -1,0 +1,11 @@
+/.idea
+/.settings
+/target
+.classpath
+.project
+.mymetadata
+*.iml
+*.log
+*.DS_Store
+/.externalToolBuilders
+/bin

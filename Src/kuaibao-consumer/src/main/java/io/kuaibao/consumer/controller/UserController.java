@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Created by tianwei on 2017/1/21.
+ * Created by  on 2017/1/21.
  */
 @Controller
 public class UserController {
